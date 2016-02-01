@@ -1,0 +1,70 @@
+install.packages('cgdsr')
+install.packages('dplyr')
+install.packages('data.table')
+install.packages('gridBase')
+library(cgdsr)
+library(dplyr)
+library(data.table)
+library(gridBase)
+# Create CGDS object
+mycgds = CGDS("http://www.cbioportal.org/public-portal/")
+test(mycgds)
+PRKCI <- matrix(NA, nrow = 1, ncol = 11, dimnames=NULL)
+colnames(PRKCI)<-c('mycancerstudy', 'mycancername', 'total', 'totalcna', 'cnatotal', 'amptotal', 'deltotal', 'totalamp', 'totaldel', 'amptocna', 'deltocna')
+PRKCI<-data.table(PRKCI)
+# Get list of cancer studies at server
+list<-getCancerStudies(mycgds)
+for (i in 1:89){
+mycancerstudy <- list[i,1]
+mycancername<-list[i,2]
+# Get available case lists (collection of samples) for a given cancer study
+caselist<-getCaseLists(mycgds,mycancerstudy)
+mycaselist <- paste0(mycancerstudy, '_cna')
+# Get available genetic profiles
+geneticprofile = getGeneticProfiles(mycgds,mycancerstudy)
+mygeneticprofile = paste0(mycancerstudy, '_gistic')
+# Get data slices for a specified list of genes, genetic profile and case list
+get<-getProfileData(mycgds,'PRKCI', mygeneticprofile,mycaselist)
+total<-dim(get)[1]
+totalamp<-length(which(get$PRKCI==2))
+totaldel<-length(which(get$PRKCI==-2))
+totalcna<-totalamp+totaldel
+cnatotal<-round(totalcna/total*100, 2)
+amptotal<-round(totalamp/total*100, 2)
+deltotal<-round(totaldel/total*100, 2)
+amptocna<-round(totalamp/totalcna*100, 2)
+deltocna<-round(totaldel/totalcna*100, 2)
+reseach<-cbind(mycancerstudy, mycancername, total, totalcna, cnatotal, amptotal, deltotal, totalamp, totaldel, amptocna, deltocna)
+reseach<-data.table(reseach)
+PRKCI<-rbind(PRKCI, reseach)
+}
+write.csv(PRKCI, "PRKCI.csv")
+PRKCI$total<-as.numeric(PRKCI$total)
+PRKCI$cnatotal<-as.numeric(PRKCI$cnatotal)
+PRKCI$totalcna<-as.numeric(PRKCI$totalcna)
+PRKCI$totalamp<-as.numeric(PRKCI$totalamp)
+PRKCI$totaldel<-as.numeric(PRKCI$totaldel)
+PRKCI$amptocna<-as.numeric(PRKCI$amptocna)
+PRKCI$deltocna<-as.numeric(PRKCI$deltocna)
+PRKCI$amptotal<-as.numeric(PRKCI$amptotal)
+PRKCI$deltotal<-as.numeric(PRKCI$deltotal)
+PRKCI<-PRKCI[!is.na(PRKCI$totalcna),]
+PRKCI<-PRKCI[!is.nan(PRKCI$cnatotal),]
+bar<-subset(PRKCI, select = c( amptotal, deltotal))
+bar<-sort(bar$amptotal, decreasing=TRUE)
+bar<-(t(bar))
+names<-as.character(PRKCI$mycancerstudy)
+png(filename = "plotPRKCI.png", width = 1440, height = 600,  units = "px", bg = "white")
+mp <- barplot(bar,col=c('red', 'blue'), xaxt="n", main="Cross-cancer alternation summary for PRKCI gene",ylab="%")
+text(mp,par("usr")[3],labels=names,srt=45,offset=1,adj=1,xpd=TRUE)
+dev.off()
+level<-90
+PRKCI.amp<-PRKCI[which(PRKCI$amptocna>=90),]
+bar.amp<-subset(PRKCI.amp, select = c( amptotal, deltotal))
+bar.amp<-sort(bar.amp$amptotal, decreasing=TRUE)
+bar.amp<-(t(bar.amp))
+names.amp<-as.character(PRKCI.amp$mycancerstudy)
+png(filename = "plotPRKCI_amp.png", width = 1440, height = 600,  units = "px", bg = "white")
+mp.amp <- barplot(bar.amp, col=c('red', 'blue'), xaxt="n", main="Cross-cancer alternation for PRKCI gene. AMP>=90%",ylab="%")
+text(mp.amp, par("usr")[3],labels=names.amp, srt=45,offset=1,adj=1,xpd=TRUE)
+dev.off()

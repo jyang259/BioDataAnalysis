@@ -1,0 +1,17 @@
+{
+    "contents" : "install.packages('cgdsr')\ninstall.packages('dplyr')\ninstall.packages('data.table')\ninstall.packages('gridBase')\nlibrary(cgdsr)\nlibrary(dplyr)\nlibrary(data.table)\nlibrary(gridBase)\n# Create CGDS object\nmycgds = CGDS(\"http://www.cbioportal.org/public-portal/\")\ntest(mycgds)\nPRKCI <- matrix(NA, nrow = 1, ncol = 11, dimnames=NULL)\ncolnames(PRKCI)<-c('mycancerstudy', 'mycancername', 'total', 'totalcna', 'cnatotal', 'amptotal', 'deltotal', 'totalamp', 'totaldel', 'amptocna', 'deltocna')\nPRKCI<-data.table(PRKCI)\n# Get list of cancer studies at server\nlist<-getCancerStudies(mycgds)\nfor (i in 1:121){\n  mycancerstudy <- list[i,1]\n  mycancername<-list[i,2]\n  # Get available case lists (collection of samples) for a given cancer study\n  caselist<-getCaseLists(mycgds,mycancerstudy)\n  mycaselist <- paste0(mycancerstudy, '_cna')\n  # Get available genetic profiles\n  geneticprofile = getGeneticProfiles(mycgds,mycancerstudy)\n  mygeneticprofile = paste0(mycancerstudy, '_gistic')\n  # Get data slices for a specified list of genes, genetic profile and case list\n  get<-getProfileData(mycgds,'PRKCI', mygeneticprofile,mycaselist)\n  total<-dim(get)[1]\n  totalamp<-length(which(get$PRKCI==2))\n  totaldel<-length(which(get$PRKCI==-2))\n  totalcna<-totalamp+totaldel\n  cnatotal<-round(totalcna/total*100, 2)\n  amptotal<-round(totalamp/total*100, 2)\n  deltotal<-round(totaldel/total*100, 2)\n  amptocna<-round(totalamp/totalcna*100, 2)\n  deltocna<-round(totaldel/totalcna*100, 2)\n  reseach<-cbind(mycancerstudy, mycancername, total, totalcna, cnatotal, amptotal, deltotal, totalamp, totaldel, amptocna, deltocna)\n  reseach<-data.table(reseach)\n  PRKCI<-rbind(PRKCI, reseach)\n}\nwrite.csv(PRKCI, \"DataForGene.csv\")",
+    "created" : 1454120799379.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2140508798",
+    "id" : "E80A7F09",
+    "lastKnownWriteTime" : 1454127113,
+    "path" : "~/GeneDataAnalysis/CodeEdits.R",
+    "project_path" : "CodeEdits.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
