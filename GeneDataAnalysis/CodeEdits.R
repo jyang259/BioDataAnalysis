@@ -38,4 +38,28 @@ for (i in 1:121){
   reseach<-data.table(reseach)
   PRKCI<-rbind(PRKCI, reseach)
 }
-write.csv(PRKCI, "PRKCI.csv")
+
+write.csv(PRKCI, "CurrentGene.csv")
+
+cancerNamesdf <- data.frame(matrix(rnorm(200),ncol=11), stringsAsFactors = FALSE)
+write.csv(cancerNamesdf, "CurrentGene.csv", row.names=F)
+
+cancerNamesdt <- fread("CurrentGene.csv", select=c(2))
+head(cancerNamesdt)
+
+for (i in 1:nrows(cancerNamesdt)){
+  nameOfCancer<-cancerNamesdt[i:1]
+  if(grep1("Kidney",nameOfCancer)){
+    rowNumber<-i
+    dataToAdd<-read.csv("CurrentGene.csv", header=TRUE)
+    dataFileToAddTo<-read.csv("KidneyStudies.csv", header=TRUE)
+    
+    dim(dataToAdd)
+    dim(dataFileToAddTo)
+    
+    dataFileToAddTo<-rbind(dataToAdd, dataFileToAddTo)
+    dim(dataFileToAddTo)
+    
+    write.csv(dataFileToAddTo, "KidneyStudies.csv")
+  }
+}
