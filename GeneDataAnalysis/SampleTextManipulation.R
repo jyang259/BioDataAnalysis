@@ -1,14 +1,25 @@
-replacementWords<-file('SampleWords.txt' ,'r')
-outfile<-file('SampleOut.txt', 'w')
+inputFile <- "SampleWords.txt"
+conIn <- file(inputFile, open = "r")
+outputFile <- "SampleOut.txt"
+conOut <- file(outputFile, open = "w")
+
+replacementWords <- list()
 replaceWord <-'mangoes'
-while (length(input<-readLines(replacementWords,n=-1)>0)){
-  for (i in 1:length(input)){
-    print(i) 
-    currentWord<-input[i,1]
-    writeLines(text=currentWord, con=outfile, sep="\n")
-    textX<-readLines("SampleText.txt")
-    textY<-gsub(replaceWord,currentWord, textX)
-    writeLines(textY, con="SampleText.txt")
-    replaceWord=currentWord
-  }
+
+while (length(oneLine <- readLines(conIn, n=1, warn = FALSE)) > 0) {
+  replacementWords <- c(replacementWords, oneLine)
 }
+
+for (i in 1:length(replacementWords)){
+  print(i) 
+  currentWord <- replacementWords[i]
+  print(currentWord)
+  cat(as.character(currentWord), conOut, sep="\n")
+  textX <- readLines("SampleText.txt")
+  textY <- gsub(replaceWord,currentWord, textX)
+  writeLines(textY, "SampleText.txt")
+  replaceWord = currentWord
+}
+
+closeAllConnections()
+
