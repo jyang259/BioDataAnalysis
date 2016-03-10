@@ -1,417 +1,417 @@
-"currentGeneName","mycancerstudy","mycancername","total","totalcna","cnatotal","amptotal","deltotal","totalamp","totaldel","amptocna","deltocna"
-"PHLPP2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"PHLPP2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"WWOX","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"WWOX","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","5","0.95","0.19","0.76","1","4","20","80"
-"EMP2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"EMP2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"CIITA","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CIITA","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"SOCS1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"SOCS1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"TNFRSF17","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"TNFRSF17","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"ERCC4","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"ERCC4","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"CYLD","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CYLD","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"HERPUD1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"HERPUD1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"NQO1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"NQO1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"BCAR1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"BCAR1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"ADAMTS18","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"ADAMTS18","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"MAF","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"MAF","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"TSC2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"TSC2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"MLST8","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"MLST8","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"PDPK1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"PDPK1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"RBFOX1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"RBFOX1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0.19","0.19","1","1","50","50"
-"SULT1A1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"SULT1A1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0.19","0.19","1","1","50","50"
-"CDH1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CDH1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"MC1R","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"MC1R","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"CREBBP","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CREBBP","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"MYH11","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"MYH11","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"ABCC1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"ABCC1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"PALB2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"PALB2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"IL21R","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"IL21R","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"FUS","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"FUS","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"SIAH1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"SIAH1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"CDH11","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CDH11","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"CBFB","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"CBFB","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0.76","0","4","0","100","0"
-"BCMO1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"BCMO1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"CDH13","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CDH13","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","11","2.08","0.57","1.52","3","8","27.27","72.73"
-"CRISPLD2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"CRISPLD2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0.38","0","2","0","100","0"
-"SLC7A5","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"SLC7A5","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"CBFA2T3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CBFA2T3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"ANKRD11","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"ANKRD11","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"FANCA","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"FANCA","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"GAS8","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"GAS8","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"MET","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"MET","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","5","0.95","0.95","0","5","0","100","0"
-"BBC3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"BBC3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"STK11","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"STK11","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"AKT2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"AKT2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"HIPK2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"HIPK2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0.76","0","4","0","100","0"
-"BRAF","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"BRAF","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","5","0.95","0.95","0","5","0","100","0"
-"RHEB","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"RHEB","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","5","0.95","0.95","0","5","0","100","0"
-"IRS2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"IRS2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.57","0","3","0","100","0"
-"PPAP2C","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"PPAP2C","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0.19","0.19","1","1","50","50"
-"INSR","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"INSR","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"MUC16","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"MUC16","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"DNMT1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"DNMT1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"PIK3R2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"PIK3R2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"CCNE1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CCNE1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"CEBPA","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CEBPA","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"CYP2A6","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CYP2A6","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"AXL","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"AXL","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"TGFB1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"TGFB1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"GSK3A","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"GSK3A","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0.38","0","2","0","100","0"
-"XRCC1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"XRCC1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"APOE","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"APOE","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0.38","0","2","0","100","0"
-"ERCC1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"ERCC1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"AKT1S1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"AKT1S1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"GRM8","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"GRM8","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0.57","0.19","3","1","75","25"
-"FLNC","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"FLNC","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0.76","0","4","0","100","0"
-"SMO","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"SMO","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.57","0","3","0","100","0"
-"CREB3L2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CREB3L2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.57","0","3","0","100","0"
-"KIAA1549","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"KIAA1549","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0.76","0","4","0","100","0"
-"EPHB6","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"EPHB6","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0.76","0","4","0","100","0"
-"CASP2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CASP2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0.76","0","4","0","100","0"
-"EZH2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"EZH2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","5","0.95","0.95","0","5","0","100","0"
-"MLL3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"MLL3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","6","1.14","1.14","0","6","0","100","0"
-"MNX1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"MNX1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","6","1.14","1.14","0","6","0","100","0"
-"ERCC5","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"ERCC5","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.57","0","3","0","100","0"
-"FSTL3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"FSTL3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0.19","0.19","1","1","50","50"
-"TCF3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"TCF3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"MAP2K2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"MAP2K2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0","0.38","0","2","0","100"
-"SH3GL1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"SH3GL1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0","0.38","0","2","0","100"
-"MLLT1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"MLLT1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0","0.38","0","2","0","100"
-"KEAP1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"KEAP1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"SMARCA4","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"SMARCA4","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"JUNB","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"JUNB","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"LYL1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"LYL1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"ZSWIM4","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"ZSWIM4","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"CC2D1A","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CC2D1A","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"NOTCH3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"NOTCH3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"BRD4","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"BRD4","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"TPM4","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"TPM4","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"CPAMD8","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CPAMD8","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"JAK3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"JAK3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"GDF15","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"GDF15","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"ELL","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"ELL","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"CRTC1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CRTC1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"UQCRFS1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"UQCRFS1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"RYR1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"RYR1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"NFKBIB","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"NFKBIB","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"CD79A","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CD79A","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"CIC","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"CIC","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0.38","0","2","0","100","0"
-"BCL3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"BCL3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0.38","0","2","0","100","0"
-"CBLC","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"CBLC","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0.38","0","2","0","100","0"
-"ERCC2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"ERCC2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"GLTSCR2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"GLTSCR2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"BAX","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"BAX","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"KLK3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"KLK3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"KLK2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"KLK2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"PPP2R1A","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"PPP2R1A","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"TFPT","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"TFPT","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"ZNF331","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"ZNF331","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"EGFR","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"EGFR","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"PDGFA","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"PDGFA","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0.38","0","2","0","100","0"
-"GPER","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"GPER","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0.38","0","2","0","100","0"
-"PMS2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","3","0.69","0.46","0.23","2","1","66.67","33.33"
-"PMS2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0.38","0","2","0","100","0"
-"RAC1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"RAC1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"GRB10","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"GRB10","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"PIK3CG","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"PIK3CG","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.57","0","3","0","100","0"
-"CARD11","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"CARD11","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"ETV1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","3","0.69","0.69","0","3","0","100","0"
-"ETV1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.57","0","3","0","100","0"
-"HNRNPA2B1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"HNRNPA2B1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"HOXA9","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"HOXA9","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"HOXA11","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"HOXA11","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"HOXA13","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"HOXA13","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"JAZF1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"JAZF1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"INHBA","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"INHBA","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"GLI3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"GLI3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"HECW1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"HECW1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"IGFBP1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"IGFBP1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"IGFBP3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"IGFBP3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"SBDS","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"SBDS","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"CLDN3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"CLDN3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0.76","0","4","0","100","0"
-"ELN","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"ELN","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0.76","0","4","0","100","0"
-"CLIP2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"CLIP2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0.76","0","4","0","100","0"
-"HIP1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"HIP1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.57","0","3","0","100","0"
-"STYXL1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"STYXL1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.57","0","3","0","100","0"
-"YWHAG","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"YWHAG","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0.38","0","2","0","100","0"
-"ABCB1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"ABCB1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.57","0","3","0","100","0"
-"AKAP9","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","3","0.69","0.69","0","3","0","100","0"
-"AKAP9","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0.76","0","4","0","100","0"
-"CDK6","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","3","0.69","0.69","0","3","0","100","0"
-"CDK6","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","5","0.95","0.95","0","5","0","100","0"
-"LMTK2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"LMTK2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.57","0","3","0","100","0"
-"STAG3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"STAG3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.57","0","3","0","100","0"
-"PILRB","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","3","0.69","0.69","0","3","0","100","0"
-"PILRB","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0.76","0","4","0","100","0"
-"MOSPD3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","3","0.69","0.69","0","3","0","100","0"
-"MOSPD3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0.76","0","4","0","100","0"
-"SERPINE1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","3","0.69","0.69","0","3","0","100","0"
-"SERPINE1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0.76","0","4","0","100","0"
-"PPP1R3A","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"PPP1R3A","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0.76","0","4","0","100","0"
-"RHPN2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"RHPN2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"TRIM24","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"TRIM24","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.57","0","3","0","100","0"
-"RB1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"RB1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","5","0.95","0","0.95","0","5","0","100"
-"AR","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"AR","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0","0.57","0","3","0","100"
-"ARAF","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"ARAF","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.19","0.38","1","2","33.33","66.67"
-"RRAGB","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"RRAGB","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0.19","0.57","1","3","25","75"
-"FOXO4","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"FOXO4","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0","0.57","0","3","0","100"
-"PAK3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","4","0.92","0.92","0","4","0","100","0"
-"PAK3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","8","1.52","0.57","0.95","3","5","37.5","62.5"
-"IRAK1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","6","1.38","1.38","0","6","0","100","0"
-"IRAK1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","5","0.95","0.95","0","5","0","100","0"
-"P2RY8","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"P2RY8","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"RAB9A","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"RAB9A","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0","0.38","0","2","0","100"
-"DMD","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"DMD","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0","0.76","0","4","0","100"
-"KDM6A","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"KDM6A","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0","0.38","0","2","0","100"
-"SSX1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"SSX1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.19","0.38","1","2","33.33","66.67"
-"WAS","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"WAS","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.19","0.38","1","2","33.33","66.67"
-"GATA1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"GATA1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.19","0.38","1","2","33.33","66.67"
-"TFE3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"TFE3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0.19","0.57","1","3","25","75"
-"KDM5C","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"KDM5C","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","4","0.76","0","0.76","0","4","0","100"
-"FAM123B","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0.46","0","2","0","100","0"
-"FAM123B","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","5","0.95","0.38","0.57","2","3","40","60"
-"MSN","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"MSN","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0","0.57","0","3","0","100"
-"NONO","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"NONO","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0","0.57","0","3","0","100"
-"ERCC6L","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"ERCC6L","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0","0.57","0","3","0","100"
-"XIST","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"XIST","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0","0.57","0","3","0","100"
-"ELF4","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","3","0.69","0.69","0","3","0","100","0"
-"ELF4","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0.19","0","1","0","100","0"
-"GPC3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","3","0.69","0.69","0","3","0","100","0"
-"GPC3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0.19","0.19","1","1","50","50"
-"PHF6","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","4","0.92","0.92","0","4","0","100","0"
-"PHF6","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0.38","0","2","0","100","0"
-"FLNA","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","6","1.38","1.38","0","6","0","100","0"
-"FLNA","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","5","0.95","0.95","0","5","0","100","0"
-"MTCP1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","7","1.61","1.15","0.46","5","2","71.43","28.57"
-"MTCP1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","6","1.14","0.95","0.19","5","1","83.33","16.67"
-"ARHGAP8","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"ARHGAP8","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"PLA2G6","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"PLA2G6","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"GSTT1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"GSTT1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"NTRK2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"NTRK2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"DDB2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"DDB2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"MAPKAP1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"MAPKAP1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"ABL1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"ABL1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"TSC1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0","0.46","0","2","0","100"
-"TSC1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0","0.38","0","2","0","100"
-"FANCC","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"FANCC","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"PTCH1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"PTCH1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"XPA","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"XPA","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"NR4A3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"NR4A3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"CNTRL","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CNTRL","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"ENG","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"ENG","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"SET","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"SET","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"FNBP1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"FNBP1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"NUP214","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0","0.23","0","1","0","100"
-"NUP214","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"CDKN2A","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","13","2.98","0","2.98","0","13","0","100"
-"CDKN2A","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","15","2.84","0","2.84","0","15","0","100"
-"CDKN2B","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","12","2.75","0","2.75","0","12","0","100"
-"CDKN2B","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","15","2.84","0","2.84","0","15","0","100"
-"JAK2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","1","0.23","0.23","0","1","0","100","0"
-"JAK2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","6","1.14","0.76","0.38","4","2","66.67","33.33"
-"PTPRD","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","4","0.92","0","0.92","0","4","0","100"
-"PTPRD","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","15","2.84","0.38","2.46","2","13","13.33","86.67"
-"RRAGA","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"RRAGA","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"TEK","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"TEK","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"NOTCH1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","3","0.69","0.23","0.46","1","2","33.33","66.67"
-"NOTCH1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.19","0.38","1","2","33.33","66.67"
-"NFIB","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"NFIB","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"PSIP1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"PSIP1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"MLLT3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"MLLT3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"MTAP","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","5","1.15","0","1.15","0","5","0","100"
-"MTAP","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","8","1.52","0","1.52","0","8","0","100"
-"FANCG","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"FANCG","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"PAX5","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"PAX5","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"GNAQ","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"GNAQ","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"OMD","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"OMD","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"TAL2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"TAL2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"TLR4","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"TLR4","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"BRD3","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","2","0.46","0","0.46","0","2","0","100"
-"BRD3","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","2","0.38","0","0.38","0","2","0","100"
-"TUBB4B","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","3","0.69","0.23","0.46","1","2","33.33","66.67"
-"TUBB4B","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.19","0.38","1","2","33.33","66.67"
-"SYK","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"SYK","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
-"ROR2","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"ROR2","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","1","0.19","0","0.19","0","1","0","100"
-"CACNA1B","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","3","0.69","0.23","0.46","1","2","33.33","66.67"
-"CACNA1B","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","3","0.57","0.19","0.38","1","2","33.33","66.67"
-"CLP1","kirc_tcga_pub","Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)","436","0","0","0","0","0","0","NaN","NaN"
-"CLP1","kirc_tcga","Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)","528","0","0","0","0","0","0","NaN","NaN"
+currentGeneName,mycancerstudy,mycancername,total,totalcna,cnatotal,amptotal,deltotal,totalamp,totaldel,amptocna,deltocna,P-value,
+PHLPP2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+PHLPP2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+WWOX,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+WWOX,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,5,0.95,0.19,0.76,1,4,20,80,0.0374,P<0.05
+EMP2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+EMP2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,0.428,
+CIITA,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CIITA,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.428,
+SOCS1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+SOCS1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.428,
+TNFRSF17,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+TNFRSF17,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.428,
+ERCC4,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+ERCC4,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.428,
+CYLD,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CYLD,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+HERPUD1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+HERPUD1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+NQO1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+NQO1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.667,
+BCAR1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+BCAR1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+ADAMTS18,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+ADAMTS18,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,0.834,
+MAF,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+MAF,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+TSC2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+TSC2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.428,
+MLST8,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+MLST8,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.428,
+PDPK1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+PDPK1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.428,
+RBFOX1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+RBFOX1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0.19,0.19,1,1,50,50,0.338,
+SULT1A1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,0.142,
+SULT1A1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0.19,0.19,1,1,50,50,0.877,
+CDH1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CDH1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+MC1R,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+MC1R,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.528,
+CREBBP,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CREBBP,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.428,
+MYH11,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+MYH11,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.428,
+ABCC1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+ABCC1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.428,
+PALB2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+PALB2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.428,
+IL21R,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+IL21R,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.428,
+FUS,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+FUS,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.428,
+SIAH1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+SIAH1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+CDH11,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CDH11,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+CBFB,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,0.958,
+CBFB,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0.76,0,4,0,100,0,0.649,
+BCMO1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+BCMO1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+CDH13,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CDH13,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,11,2.08,0.57,1.52,3,8,27.27,72.73,0.165,
+CRISPLD2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,0.207,
+CRISPLD2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0.38,0,2,0,100,0,0.207,
+SLC7A5,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+SLC7A5,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+CBFA2T3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CBFA2T3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.528,
+ANKRD11,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+ANKRD11,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.528,
+FANCA,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+FANCA,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.528,
+GAS8,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+GAS8,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.528,
+MET,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,0.688,
+MET,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,5,0.95,0.95,0,5,0,100,0,0.361,
+BBC3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,0.0519,
+BBC3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,0.0377,P<0.05
+STK11,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+STK11,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,0.021,P<0.05
+AKT2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+AKT2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.0377,P<0.05
+HIPK2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,0.759,
+HIPK2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0.76,0,4,0,100,0,0.896,
+BRAF,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,0.759,
+BRAF,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,5,0.95,0.95,0,5,0,100,0,0.897,
+RHEB,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,0.759,
+RHEB,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,5,0.95,0.95,0,5,0,100,0,0.897,
+IRS2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+IRS2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.57,0,3,0,100,0,0.533,
+PPAP2C,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,0.536,
+PPAP2C,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0.19,0.19,1,1,50,50,0.889,
+INSR,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,0.0519,
+INSR,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,0.0377,P<0.05
+MUC16,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,0.0519,
+MUC16,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,0.0377,P<0.05
+DNMT1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,0.0519,
+DNMT1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,0.0377,P<0.05
+PIK3R2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+PIK3R2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.667,
+CCNE1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CCNE1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.0377,P<0.05
+CEBPA,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CEBPA,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.0377,P<0.05
+CYP2A6,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CYP2A6,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.0377,P<0.05
+AXL,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+AXL,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.0377,P<0.05
+TGFB1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+TGFB1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.0377,P<0.05
+GSK3A,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,0.301,
+GSK3A,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0.38,0,2,0,100,0,0.0353,P<0.05
+XRCC1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+XRCC1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.0377,P<0.05
+APOE,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,0.0519,
+APOE,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0.38,0,2,0,100,0,0.383,
+ERCC1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,0.0519,
+ERCC1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,0.0377,P<0.05
+AKT1S1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,0.0519,
+AKT1S1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,0.0377,P<0.05
+GRM8,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,0.796,
+GRM8,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0.57,0.19,3,1,75,25,0.751,
+FLNC,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,0.759,
+FLNC,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0.76,0,4,0,100,0,0.896,
+SMO,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+SMO,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.57,0,3,0,100,0,0.815,
+CREB3L2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CREB3L2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.57,0,3,0,100,0,0.815,
+KIAA1549,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,0.759,
+KIAA1549,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0.76,0,4,0,100,0,0.896,
+EPHB6,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,0.759,
+EPHB6,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0.76,0,4,0,100,0,0.896,
+CASP2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CASP2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0.76,0,4,0,100,0,0.817,
+EZH2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,0.759,
+EZH2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,5,0.95,0.95,0,5,0,100,0,0.897,
+MLL3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,0.536,
+MLL3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,6,1.14,1.14,0,6,0,100,0,0.768,
+MNX1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,0.536,
+MNX1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,6,1.14,1.14,0,6,0,100,0,0.768,
+ERCC5,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+ERCC5,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.57,0,3,0,100,0,0.533,
+FSTL3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,0.536,
+FSTL3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0.19,0.19,1,1,50,50,0.889,
+TCF3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+TCF3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,0.021,P<0.05
+MAP2K2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,0.0519,
+MAP2K2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0,0.38,0,2,0,100,0.00196,P<0.05
+SH3GL1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,0.0519,
+SH3GL1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0,0.38,0,2,0,100,0.00196,P<0.05
+MLLT1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,0.0519,
+MLLT1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0,0.38,0,2,0,100,0.00196,P<0.05
+KEAP1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,0.0519,
+KEAP1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,0.0377,P<0.05
+SMARCA4,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+SMARCA4,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+JUNB,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+JUNB,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+LYL1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+LYL1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+ZSWIM4,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+ZSWIM4,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+CC2D1A,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CC2D1A,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+NOTCH3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+NOTCH3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+BRD4,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+BRD4,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+TPM4,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+TPM4,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+CPAMD8,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CPAMD8,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+JAK3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+JAK3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.667,
+GDF15,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+GDF15,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.667,
+ELL,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+ELL,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.667,
+CRTC1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CRTC1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.667,
+UQCRFS1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+UQCRFS1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.0377,P<0.05
+RYR1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+RYR1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.0377,P<0.05
+NFKBIB,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+NFKBIB,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.0377,P<0.05
+CD79A,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CD79A,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,0.0377,P<0.05
+CIC,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,0.301,
+CIC,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0.38,0,2,0,100,0,0.0353,P<0.05
+BCL3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,0.0519,
+BCL3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0.38,0,2,0,100,0,0.383,
+CBLC,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,0.0519,
+CBLC,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0.38,0,2,0,100,0,0.383,
+ERCC2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,0.0519,
+ERCC2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,0.0377,P<0.05
+GLTSCR2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,0.0519,
+GLTSCR2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,0.0377,P<0.05
+BAX,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,0.0519,
+BAX,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,0.0377,P<0.05
+KLK3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,,
+KLK3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,,
+KLK2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,,
+KLK2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,,
+PPP2R1A,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,,
+PPP2R1A,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,,
+TFPT,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,,
+TFPT,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,,
+ZNF331,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,,
+ZNF331,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,,
+EGFR,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+EGFR,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,,
+PDGFA,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,,
+PDGFA,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0.38,0,2,0,100,0,,
+GPER,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,,
+GPER,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0.38,0,2,0,100,0,,
+PMS2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,3,0.69,0.46,0.23,2,1,66.67,33.33,,
+PMS2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0.38,0,2,0,100,0,,
+RAC1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,,
+RAC1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,,
+GRB10,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+GRB10,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+PIK3CG,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,,
+PIK3CG,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.57,0,3,0,100,0,,
+CARD11,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,,
+CARD11,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,,
+ETV1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,3,0.69,0.69,0,3,0,100,0,,
+ETV1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.57,0,3,0,100,0,,
+HNRNPA2B1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+HNRNPA2B1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+HOXA9,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+HOXA9,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+HOXA11,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+HOXA11,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+HOXA13,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+HOXA13,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+JAZF1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+JAZF1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+INHBA,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+INHBA,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+GLI3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+GLI3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+HECW1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+HECW1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,,
+IGFBP1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+IGFBP1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+IGFBP3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+IGFBP3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+SBDS,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,,
+SBDS,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,,
+CLDN3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,,
+CLDN3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0.76,0,4,0,100,0,,
+ELN,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,,
+ELN,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0.76,0,4,0,100,0,,
+CLIP2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,,
+CLIP2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0.76,0,4,0,100,0,,
+HIP1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,,
+HIP1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.57,0,3,0,100,0,,
+STYXL1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,,
+STYXL1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.57,0,3,0,100,0,,
+YWHAG,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,,
+YWHAG,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0.38,0,2,0,100,0,,
+ABCB1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,,
+ABCB1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.57,0,3,0,100,0,,
+AKAP9,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,3,0.69,0.69,0,3,0,100,0,,
+AKAP9,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0.76,0,4,0,100,0,,
+CDK6,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,3,0.69,0.69,0,3,0,100,0,,
+CDK6,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,5,0.95,0.95,0,5,0,100,0,,
+LMTK2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,,
+LMTK2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.57,0,3,0,100,0,,
+STAG3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,,
+STAG3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.57,0,3,0,100,0,,
+PILRB,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,3,0.69,0.69,0,3,0,100,0,,
+PILRB,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0.76,0,4,0,100,0,,
+MOSPD3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,3,0.69,0.69,0,3,0,100,0,,
+MOSPD3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0.76,0,4,0,100,0,,
+SERPINE1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,3,0.69,0.69,0,3,0,100,0,,
+SERPINE1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0.76,0,4,0,100,0,,
+PPP1R3A,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,,
+PPP1R3A,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0.76,0,4,0,100,0,,
+RHPN2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+RHPN2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,,
+TRIM24,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+TRIM24,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.57,0,3,0,100,0,,
+RB1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+RB1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,5,0.95,0,0.95,0,5,0,100,,
+AR,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+AR,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0,0.57,0,3,0,100,,
+ARAF,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+ARAF,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.19,0.38,1,2,33.33,66.67,,
+RRAGB,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+RRAGB,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0.19,0.57,1,3,25,75,,
+FOXO4,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+FOXO4,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0,0.57,0,3,0,100,,
+PAK3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,4,0.92,0.92,0,4,0,100,0,,
+PAK3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,8,1.52,0.57,0.95,3,5,37.5,62.5,,
+IRAK1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,6,1.38,1.38,0,6,0,100,0,,
+IRAK1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,5,0.95,0.95,0,5,0,100,0,,
+P2RY8,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,,
+P2RY8,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+RAB9A,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,,
+RAB9A,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0,0.38,0,2,0,100,,
+DMD,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,,
+DMD,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0,0.76,0,4,0,100,,
+KDM6A,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+KDM6A,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0,0.38,0,2,0,100,,
+SSX1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+SSX1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.19,0.38,1,2,33.33,66.67,,
+WAS,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+WAS,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.19,0.38,1,2,33.33,66.67,,
+GATA1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+GATA1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.19,0.38,1,2,33.33,66.67,,
+TFE3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+TFE3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0.19,0.57,1,3,25,75,,
+KDM5C,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,,
+KDM5C,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,4,0.76,0,0.76,0,4,0,100,,
+FAM123B,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0.46,0,2,0,100,0,,
+FAM123B,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,5,0.95,0.38,0.57,2,3,40,60,,
+MSN,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+MSN,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0,0.57,0,3,0,100,,
+NONO,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+NONO,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0,0.57,0,3,0,100,,
+ERCC6L,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+ERCC6L,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0,0.57,0,3,0,100,,
+XIST,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+XIST,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0,0.57,0,3,0,100,,
+ELF4,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,3,0.69,0.69,0,3,0,100,0,,
+ELF4,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0.19,0,1,0,100,0,,
+GPC3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,3,0.69,0.69,0,3,0,100,0,,
+GPC3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0.19,0.19,1,1,50,50,,
+PHF6,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,4,0.92,0.92,0,4,0,100,0,,
+PHF6,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0.38,0,2,0,100,0,,
+FLNA,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,6,1.38,1.38,0,6,0,100,0,,
+FLNA,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,5,0.95,0.95,0,5,0,100,0,,
+MTCP1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,7,1.61,1.15,0.46,5,2,71.43,28.57,,
+MTCP1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,6,1.14,0.95,0.19,5,1,83.33,16.67,,
+ARHGAP8,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+ARHGAP8,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+PLA2G6,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+PLA2G6,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+GSTT1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+GSTT1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+NTRK2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+NTRK2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+DDB2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+DDB2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+MAPKAP1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+MAPKAP1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+ABL1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,,
+ABL1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,,
+TSC1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0,0.46,0,2,0,100,,
+TSC1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0,0.38,0,2,0,100,,
+FANCC,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+FANCC,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+PTCH1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+PTCH1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+XPA,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+XPA,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+NR4A3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+NR4A3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+CNTRL,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CNTRL,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+ENG,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+ENG,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+SET,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+SET,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+FNBP1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,,
+FNBP1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,,
+NUP214,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0,0.23,0,1,0,100,,
+NUP214,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,,
+CDKN2A,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,13,2.98,0,2.98,0,13,0,100,,
+CDKN2A,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,15,2.84,0,2.84,0,15,0,100,,
+CDKN2B,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,12,2.75,0,2.75,0,12,0,100,,
+CDKN2B,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,15,2.84,0,2.84,0,15,0,100,,
+JAK2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,1,0.23,0.23,0,1,0,100,0,,
+JAK2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,6,1.14,0.76,0.38,4,2,66.67,33.33,,
+PTPRD,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,4,0.92,0,0.92,0,4,0,100,,
+PTPRD,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,15,2.84,0.38,2.46,2,13,13.33,86.67,,
+RRAGA,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+RRAGA,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+TEK,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+TEK,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+NOTCH1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,3,0.69,0.23,0.46,1,2,33.33,66.67,,
+NOTCH1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.19,0.38,1,2,33.33,66.67,,
+NFIB,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+NFIB,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,,
+PSIP1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+PSIP1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+MLLT3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+MLLT3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,,
+MTAP,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,5,1.15,0,1.15,0,5,0,100,,
+MTAP,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,8,1.52,0,1.52,0,8,0,100,,
+FANCG,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+FANCG,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+PAX5,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+PAX5,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+GNAQ,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+GNAQ,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+OMD,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+OMD,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+TAL2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+TAL2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+TLR4,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+TLR4,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+BRD3,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,2,0.46,0,0.46,0,2,0,100,,
+BRD3,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,2,0.38,0,0.38,0,2,0,100,,
+TUBB4B,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,3,0.69,0.23,0.46,1,2,33.33,66.67,,
+TUBB4B,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.19,0.38,1,2,33.33,66.67,,
+SYK,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+SYK,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
+ROR2,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+ROR2,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,1,0.19,0,0.19,0,1,0,100,,
+CACNA1B,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,3,0.69,0.23,0.46,1,2,33.33,66.67,,
+CACNA1B,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,3,0.57,0.19,0.38,1,2,33.33,66.67,,
+CLP1,kirc_tcga_pub,"Kidney Renal Clear Cell Carcinoma (TCGA, Nature 2013)",436,0,0,0,0,0,0,NaN,NaN,,
+CLP1,kirc_tcga,"Kidney Renal Clear Cell Carcinoma (TCGA, Provisional)",528,0,0,0,0,0,0,NaN,NaN,,
