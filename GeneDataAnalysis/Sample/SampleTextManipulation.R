@@ -1,6 +1,6 @@
-inputFile <- "SampleWords.txt"
+inputFile <- "Sample/SampleWords.txt"
 conIn <- file(inputFile, open = "r")
-outputFile <- "SampleOut.txt"
+outputFile <- "Sample/SampleOut.txt"
 conOut <- file(outputFile, open = "w")
 
 replacementWords <- list()
@@ -11,13 +11,12 @@ while (length(oneLine <- readLines(conIn, n=1, warn = FALSE)) > 0) {
 }
 
 for (i in 1:length(replacementWords)){
-  print(i) 
   currentWord <- replacementWords[i]
   print(currentWord)
   cat(as.character(currentWord), conOut, sep="\n")
-  textX <- readLines("SampleText.txt")
+  textX <- readLines("Sample/SampleText.txt")
   textY <- gsub(replaceWord,currentWord, textX)
-  writeLines(textY, "SampleText.txt")
+  writeLines(textY, "Sample/SampleText.txt")
   replaceWord = currentWord
 }
 
