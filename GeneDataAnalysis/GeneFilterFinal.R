@@ -13,7 +13,7 @@ install.packages('mixexp')
                  dir.create(file.path("./Studies"), showWarnings = FALSE)
                  
                  # List of Genes to test for
-                 inputFile <- "RenalCarcinoma.txt"
+                 inputFile <- "Sheets 1 to 6.txt"
                  conIn <- file(inputFile, open = "r")
                  mycgds = CGDS("http://www.cbioportal.org/public-portal/")
                  
@@ -24,12 +24,12 @@ install.packages('mixexp')
                  list<-getCancerStudies(mycgds)
                  
                  # The term to search for in the studies. Resulting files will be named [searchTerm]Studies.csv
-                 searchTerm <- "Kidney Renal Clear Cell Carcinoma"
-                 file.create(paste0("./Studies/", searchTerm, "Studies.csv"))
+                 searchTerm <- "Kidney"
+                 file.create(paste0("./Studies/", searchTerm, "1Studies.csv"))
                  
                  # Prep the data frame for storing results
                  geneMatrix <- matrix(NA, nrow = 1, ncol = 12, dimnames=NULL)
-                 geneMatrixColumns <- c('currentGeneName', 'mycancerstudy', 'mycancername', 'total', 'totalcna', 'cnatotal', 'amptotal', 'deltotal', 'totalamp', 'totaldel', 'amptocna', 'deltocna')
+                 geneMatrixColumns <- c('Gene', 'Publisher', 'Cancer Study', 'Total Cases', 'Total CNA Cases', 'CNA Frequency', 'Amp Frequency', 'Del Frequency', 'Total Amp Cases', 'Total Del Cases', 'Amp to CNA Ratio', 'Deletion to CNA Ratio')
                  colnames(geneMatrix )<- geneMatrixColumns
                  geneMatrix<-data.table(geneMatrix )
                  geneMatrix<-geneMatrix[-1,]
